@@ -1,0 +1,81 @@
+body{
+  background: url(Animal-Racoon.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100%;
+}
+.container{
+  background-color: rgb(0,0,0,0.65);
+  color: #fff;
+  padding: 10px;
+  margin: auto;
+  margin-top: 150px;
+  text-align: center;
+  justify-content: center;
+  height: 400px;
+}
+.sidebae{
+  padding: 50px;
+  margin: auto;
+  margin-top: 5px;
+  justify-content: center;
+  height: 300px;
+}
+.sidebae2{
+  padding: 10px;
+  margin: auto;
+  margin-top: 5px;
+  justify-content: center;
+  height: 300px;
+}
+.sidebae3{
+  margin: auto;
+  margin-top: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 50px;
+  height: 300px;
+}
+.cercle{
+  border-radius: 50%;
+  margin: auto;
+  width: 150px;
+  height: 150px;
+  opacity: 1;
+}
+.btn{
+  background-color: #e67e00 !important;
+  color: #ffffff !important;
+  border: none !important;
+  font-family: 'Baloo Bhaina 2';
+  font-size: 19px !important;
+  height: 50px;
+  width: 150px;
+}
+.btn:hover{
+  background-color: #c26b00 !important;
+}
+.link{
+  background-color: #e67e00;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  position: absolute;
+  bottom: 15px;
+}
+.name{
+  font-family: 'Baloo Bhaina 2';
+  font-size: 35px;
+}
+h1{
+  font-family: 'Baloo Bhaina 2';
+}
+p{
+  font-family: 'Baloo Bhaina 2';
+  font-size: 25px;
+}
