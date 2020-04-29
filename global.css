@@ -53,8 +53,11 @@ body{
   border: none !important;
   font-family: 'Baloo Bhaina 2';
   font-size: 19px !important;
+  text-align: center !important;
+  vertical-align: middle;
+  line-height: 20px;
   height: 50px;
-  width: 150px;
+  width: 170px;
 }
 .btn:hover{
   background-color: #c26b00 !important;
@@ -67,6 +70,7 @@ body{
   right: 0;
   position: absolute;
   bottom: 15px;
+  text-align: center;
 }
 .name{
   font-family: 'Baloo Bhaina 2';
